@@ -2,3 +2,5 @@
 # -*- coding: utf-8 -*-
 print(2333)
 a = 'zhangsan'
+
+print('hello, world')
